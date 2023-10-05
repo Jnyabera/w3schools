@@ -1,0 +1,18 @@
+2023-10-02 20:37:59.523 [info] 
+
+
+
+
+2023-10-02 20:37:59.523 [info] Extension host agent started.
+2023-10-02 20:37:59.577 [info] [127.0.0.1][1bb65b1c][ManagementConnection] New connection established.
+2023-10-02 20:37:59.586 [info] Started initializing default profile extensions in extensions installation folder. file:///home/sdktech/.vscode-server/extensions
+2023-10-02 20:38:00.164 [info] [127.0.0.1][a1887fb5][ExtensionHostConnection] New connection established.
+2023-10-02 20:38:00.772 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/sdktech/.vscode-server/extensions
+2023-10-02 20:38:01.139 [info] [127.0.0.1][a1887fb5][ExtensionHostConnection] <876> Launched Extension Host Process.
+2023-10-03 09:09:46.227 [info] [127.0.0.1][a1887fb5][ExtensionHostConnection] The client has reconnected.
+2023-10-03 09:09:48.792 [info] [127.0.0.1][1bb65b1c][ManagementConnection] The client has reconnected.
+2023-10-04 08:49:23.255 [info] [127.0.0.1][1bb65b1c][ManagementConnection] The client has reconnected.
+2023-10-04 08:49:26.075 [info] [127.0.0.1][a1887fb5][ExtensionHostConnection] The client has reconnected.
+2023-10-04 10:44:21.087 [info] [127.0.0.1][d84ab0af][ManagementConnection] New connection established.
+2023-10-04 10:44:21.206 [info] [127.0.0.1][4de324b5][ExtensionHostConnection] New connection established.
+2023-10-04 10:44:21.280 [info] [127.0.0.1][4de324b5][ExtensionHostConnection] <1559> Launched Extension Host Process.
